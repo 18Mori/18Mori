@@ -30,8 +30,6 @@
 [![](https://visitcount.itsvg.in/api?id=18mori&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=14a44ederamx975zoyhu2tmmf)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=14a44ederamx975zoyhu2tmmf&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=14a44ederamx975zoyhu2tmmf&width={width})
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
