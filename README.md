@@ -29,6 +29,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=18mori&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
