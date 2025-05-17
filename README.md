@@ -9,9 +9,7 @@
 
 - ⚡ Fun fact **I like to draw**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,3 +27,25 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=18mori&show_icons=true&locale=en" alt="18mori" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=18mori&" alt="18mori" /></p>
+
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/14a44ederamx975zoyhu2tmmf">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=14a44ederamx975zoyhu2tmmf&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=18Mori&theme=dark" alt="Layout with last medium posts"  />
+</div>
+
+###
