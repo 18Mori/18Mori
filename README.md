@@ -32,7 +32,6 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=14a44ederamx975zoyhu2tmmf)
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=14a44ederamx975zoyhu2tmmf&count={count})
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=14a44ederamx975zoyhu2tmmf&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=14a44ederamx975zoyhu2tmmf&unique={true|1|on|yes})
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
