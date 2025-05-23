@@ -10,8 +10,6 @@
    <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" width="75">&nbsp;
   </div>
 
-  # 👋 Hi, I'm 18Mori!
-
 Welcome to my GitHub profile! I'm a passionate developer who loves building creative and practical solutions, from personal productivity tools to stylish web apps. Below you’ll find a snapshot of my journey, interests, and current projects—all showcased through my public repositories. Whether you're here for inspiration, collaboration, or a coding adventure, you'll find a taste of everything I do right here. 
 
 ---
