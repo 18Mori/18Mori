@@ -14,8 +14,6 @@
 
 Welcome to my GitHub profile! I'm a passionate developer who loves building creative and practical solutions, from personal productivity tools to stylish web apps. Below you’ll find a snapshot of my journey, interests, and current projects—all showcased through my public repositories. Whether you're here for inspiration, collaboration, or a coding adventure, you'll find a taste of everything I do right here. 
 
-![My Avatar](https://avatars.githubusercontent.com/u/104217554?v=4)
-
 ---
 
 ## 🚀 About Me
@@ -27,36 +25,8 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building crea
 
 ---
 
-## 📂 My Featured Projects
+## 🧰 Tools
 
-Here’s a selection of my public repositories that highlight my coding interests and skills:
-
-### 🥗 [Recipe Book](https://github.com/18Mori/Recipe_Book)
-A handy app for foodies to store, search, and organize recipes. Built with HTML for a simple, clean interface.
-
-### 🔥 [Calorie Tracker](https://github.com/18Mori/Calorie_tracker)
-Track your daily calorie intake and stay on top of your health goals! Crafted with JavaScript for interactive tracking.
-
-### 💸 [Budget Tracker](https://github.com/18Mori/budget_tracker)
-Simple JavaScript-based web app to help you monitor spending, plan budgets, and develop great financial habits.
-
-### 👟 [Shoe Store Sole](https://github.com/18Mori/Shoe-store-sole)
-A stylish online shoe store front-end (HTML) with a modular design. Born as a module-1 project, it shows my growth in structured web dev.
-
-### 📅 [Calendar / Event Manager](https://github.com/18Mori/calendar)
-A JavaScript-powered event manager to organize your schedule and never miss important dates.
-
-### 🍽️ [Restaurant Webpage](https://github.com/18Mori/Restaurant-webpage)
-A CSS-centric, visually vibrant website for restaurants—showcasing my attention to layout and style.
-
-### 💼 [Portfolio-1](https://github.com/18Mori/Portfolio-1)
-My personal portfolio project, designed in HTML, which serves as a living résumé and project showcase.
-
----
-
-## 🧰 Languages & Tools
-
-- **Languages:** JavaScript, HTML, CSS
 - **Tools:** GitHub Pages, Git, Visual Studio Code
 - **Methodologies:** Clean Code, Modular Design, Responsive Web
 
@@ -79,7 +49,7 @@ My personal portfolio project, designed in HTML, which serves as a living résum
 
 ## 📝 Fun Facts
 
-- I love making life easier with code—whether it’s tracking calories, managing events, or building portfolios.
+- I love making life easier with code.
 - My style: Practical, minimalist interfaces with a focus on usability.
 - I’m always looking out for ways to improve—suggestions are welcome!
 
