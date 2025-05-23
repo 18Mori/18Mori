@@ -10,6 +10,84 @@
    <img src="https://user-images.githubusercontent.com/74038190/236119650-f49991cf-21c3-46ef-a947-760ab27a10d0.gif" width="75">&nbsp;
   </div>
 
+  # 👋 Hi, I'm 18Mori!
+
+Welcome to my GitHub profile! I'm a passionate developer who loves building creative and practical solutions, from personal productivity tools to stylish web apps. Below you’ll find a snapshot of my journey, interests, and current projects—all showcased through my public repositories. Whether you're here for inspiration, collaboration, or a coding adventure, you'll find a taste of everything I do right here. 
+
+![My Avatar](https://avatars.githubusercontent.com/u/104217554?v=4)
+
+---
+
+## 🚀 About Me
+
+- 💡 I love learning new technologies, especially in web development and automation.
+- 🛠️ I enjoy creating apps that solve everyday problems, track habits, and make life easier.
+- 🌱 I’m always exploring modern JavaScript, HTML, and CSS, and building projects that showcase both design and functionality.
+- 🖥️ I value clean code, readable documentation, and a touch of creative flair in everything I do.
+
+---
+
+## 📂 My Featured Projects
+
+Here’s a selection of my public repositories that highlight my coding interests and skills:
+
+### 🥗 [Recipe Book](https://github.com/18Mori/Recipe_Book)
+A handy app for foodies to store, search, and organize recipes. Built with HTML for a simple, clean interface.
+
+### 🔥 [Calorie Tracker](https://github.com/18Mori/Calorie_tracker)
+Track your daily calorie intake and stay on top of your health goals! Crafted with JavaScript for interactive tracking.
+
+### 💸 [Budget Tracker](https://github.com/18Mori/budget_tracker)
+Simple JavaScript-based web app to help you monitor spending, plan budgets, and develop great financial habits.
+
+### 👟 [Shoe Store Sole](https://github.com/18Mori/Shoe-store-sole)
+A stylish online shoe store front-end (HTML) with a modular design. Born as a module-1 project, it shows my growth in structured web dev.
+
+### 📅 [Calendar / Event Manager](https://github.com/18Mori/calendar)
+A JavaScript-powered event manager to organize your schedule and never miss important dates.
+
+### 🍽️ [Restaurant Webpage](https://github.com/18Mori/Restaurant-webpage)
+A CSS-centric, visually vibrant website for restaurants—showcasing my attention to layout and style.
+
+### 💼 [Portfolio-1](https://github.com/18Mori/Portfolio-1)
+My personal portfolio project, designed in HTML, which serves as a living résumé and project showcase.
+
+---
+
+## 🧰 Languages & Tools
+
+- **Languages:** JavaScript, HTML, CSS
+- **Tools:** GitHub Pages, Git, Visual Studio Code
+- **Methodologies:** Clean Code, Modular Design, Responsive Web
+
+---
+
+## 📊 GitHub Stats
+
+- **Repos:** 8+ public repositories
+- **Recent Activity:** Consistently shipping new projects and updates, with several repositories created and updated in the last month!
+- **Open Source:** All my projects are open for collaboration—feel free to fork, star, or open an issue.
+
+---
+
+## 🌎 Let’s Connect
+
+- **GitHub:** [18Mori](https://github.com/18Mori)
+- **Collaboration:** Always open to new ideas, feedback, and collaborations!
+
+---
+
+## 📝 Fun Facts
+
+- I love making life easier with code—whether it’s tracking calories, managing events, or building portfolios.
+- My style: Practical, minimalist interfaces with a focus on usability.
+- I’m always looking out for ways to improve—suggestions are welcome!
+
+---
+
+Thanks for visiting my GitHub! Happy coding! 🚀
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/18mori" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="18mori" height="30" width="40" /></a>
